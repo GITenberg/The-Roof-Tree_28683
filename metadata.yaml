@@ -1,0 +1,36 @@
+_repo: The-Roof-Tree_28683
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Conrey, Lee F.
+    gutenberg_agent_id: '33483'
+    url: http://www.gutenberg.org/2009/agents/33483
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buck, Charles Neville
+    birthdate: 1879
+    deathdate: 1930
+    gutenberg_agent_id: '2520'
+    url: http://www.gutenberg.org/2009/agents/2520
+    wikipedia:
+    - http://www.english.eku.edu/services/kylit/buck.htm
+    - http://www.gutenberg.org/browse/authors/l#a36873
+description: ''
+gutenberg_issued: '2009-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28683'
+  lccn: '21004167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vendetta -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+- !lcc 'PS'
+title: The Roof Tree
+url: http://www.gutenberg.org/ebooks/28683
